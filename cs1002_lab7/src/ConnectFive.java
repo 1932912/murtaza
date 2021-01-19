@@ -140,6 +140,7 @@ public class ConnectFive extends JFrame {
 				Toss_winner.setVisible(true); // Show toss frame
 				Toss_winner.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Close the frame
 			}
+			fshbsdhfbhdsbjf hbhsjfajsf ahsfjk
 			if (Toss_input == 2) {//If user Select  Head.
 				JLabel Winner_toss = new JLabel();//To show the toss results.
 				JPanel TopPanel = new JPanel();//To add the toss result image.
@@ -388,7 +389,7 @@ public class ConnectFive extends JFrame {
 	public class About_Game implements ActionListener {
 		public void actionPerformed(ActionEvent e) {
 			JOptionPane.showMessageDialog(null,
-					"© Created by: Murtaza Magar \nVersion 1.0" ,
+					"ï¿½ Created by: Murtaza Magar \nVersion 1.0" ,
 					"About", JOptionPane.INFORMATION_MESSAGE);
 		}
 	}
