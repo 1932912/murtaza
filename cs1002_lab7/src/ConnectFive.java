@@ -35,7 +35,7 @@ public class ConnectFive extends JFrame {
 	int size_row, size_column; // Row size, Column size
 	int playerOrder; // Who will start the game
 	int count1 = 0, count2 = 0, Score_count1 = 0, Score_count2 = 0;// To count the winning score and turned played by a
-																	// player.
+					mutdsfhdshjfgsh												// player.
 	int GameMode; // Player number
 	static int Occupied_buttons = 0; // Number of living cells
 	public static int Winner, Toss_input, resetplayer, Input_Colour;
