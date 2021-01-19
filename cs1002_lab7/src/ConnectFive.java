@@ -140,7 +140,7 @@ public class ConnectFive extends JFrame {
 				Toss_winner.setVisible(true); // Show toss frame
 				Toss_winner.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Close the frame
 			}
-			fshbsdhfbhdsbjf hbhsjfajsf ahsfjk
+			sjasjfhjsahf
 			if (Toss_input == 2) {//If user Select  Head.
 				JLabel Winner_toss = new JLabel();//To show the toss results.
 				JPanel TopPanel = new JPanel();//To add the toss result image.
