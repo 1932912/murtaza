@@ -82,7 +82,7 @@ public class ConnectFive extends JFrame {
 			ConnectFive game = new ConnectFive();
 		}
 	}
-
+murtaza magar
 	public class Starting implements ActionListener {
 		public void actionPerformed(ActionEvent e) {
 			cointoss();
